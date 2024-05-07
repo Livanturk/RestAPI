@@ -1,0 +1,31 @@
+Nodejs = A runtime environment for executing JavaScript code
+Node = To build back-end services
+API (Application Programming Interfaces) = Back-end services
+
+API power our client applications
+
+JS Engine = Translates JS codes to machine language
+
+A browser provides a runtime environment for JavaScript code
+
+Node applications are asynchronous by default 
+
+Node is ideal for I/O-intensive apps
+
+Do not use Node for CPU-Intensive apps
+
+module = Reusable piece of code that encapsulates functionality and can be imported and used in other parts of an application.
+
+
+module.export = Used to define what should be exported from a module. When you define variables, functions, or objects within a module, they are by default scoped to that module and are not accessible outside of it. To make certain functions or data available for other modules to use, you use module.exports.
+
+
+require() = In Node.js we use it for importing modules
+
+Joi = Used for data validation in Node.js applications.
+
+Express = A web application framework for Node.js, it simplifies the process of building web applications APIs.
+
+JWT (JSON Web Token) = Commonly used for Authentication and authorization, for a secure information transfer between the client and server
+
+RESTful API Standarts => HTTP Methods, URL Structures, HTTP Status Codes, Error Handling, Security (HTTPS), Authentication and Authorization
